@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 
 public class Welcome {
-
+//this is welcome file
 	public static void main(String[] args) throws IOException {
 		displayLandingPage();
 	}
